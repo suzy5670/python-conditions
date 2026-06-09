@@ -1,2 +1,2 @@
 # python-conditions
-Exercices Python sur les boucles for et while | Formation Data Analyst
+Exercices Python sur les conditions if, elif, else | Formation Data Analyst
